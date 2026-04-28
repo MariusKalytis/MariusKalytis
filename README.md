@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Marius
 
-<!--
-**MariusKalytis/MariusKalytis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[Vibie](https://vibie.ai)** — building autonomous AI agents for non-technical teams. Think "Cursor for content creators": marketers, sales, and ops people describe what they want, agents go do it.
 
-Here are some ideas to get you started:
+Based in Vilnius, Lithuania.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+**Vibie** — multi-model AI workflow automation. Next.js, TypeScript, Supabase, Mastra, Vercel AI SDK, Composio for integrations. Currently in active development.
+
+### Background
+
+- Previously at **[CGTrader](https://www.cgtrader.com)** — the largest 3D content marketplace (now board member)
+- 10+ years building products in marketplaces, SaaS, and now AI
+
+### Tech I'm into
+
+`TypeScript` · `Next.js` · `AI Agents` · `LLM Orchestration` · `Supabase` · `Mastra`
+
+### Get in touch
+
+- [vibie.ai](https://vibie.ai)
+- [LinkedIn](https://www.linkedin.com/in/mariuskalytis/)
+- marius@vibie.ai
+- [X / Twitter](https://x.com/mariuskalytis)
+
+---
+
+*Currently fundraising for Vibie's pre-seed. If you're a CEE-focused angel or AI-interested investor, let's talk.*
