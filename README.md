@@ -11,7 +11,7 @@ Based in Vilnius, Lithuania.
 ### Background
 
 - Founder of **[CGTrader](https://www.cgtrader.com)** — the largest 3D content marketplace (now board member)
-- 15+ years building products in marketplaces, SaaS, and now AI
+- 25+ years building products in marketplaces, SaaS, and now AI
 
 ### Tech I'm into
 
